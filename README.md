@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thalitaolic
+- 👋 Hi, I’m Thalita Oliveira (@thalitaolic)
 - 👀 I’m interested in web and game development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on new web and game dev projects
